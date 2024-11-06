@@ -1,0 +1,7 @@
+path: /content/data  # dataset root directory
+train: images/train  # train images (relative to 'path')
+val: images/val      # validation images (relative to 'path')
+
+nc: 125
+
+names: ['Apple', 'Chips1', 'Chips2', 'MiddleSign', 'Mycafe', 'Orange', 'Tempo', 'ToothPaste', 'ToothPaste2', 'Water-Bottle', 'hkd10', 'hkd100', 'hkd20', 'hkd50', 'hkd500', 'cars', 'motorbike', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'football', 'player', 'referee', 'Chair', 'Sofa', 'Table', 'cat', 'chicken', 'cow', 'dog', 'fox', 'goat', 'horse', 'person', 'racoon', 'skunk', 'green_sphero', 'orange-sphero', 'orange_sphero', 'purple_sphero', 'red_sphero', 'yellow_sphero', 'bicycles', 'buses', 'crosswalks', 'fire hydrants', 'motorcycles', 'traffic lights', 'vehicles', 'big bus', 'big truck', 'bus-l-', 'bus-s-', 'car', 'mid truck', 'small bus', 'small truck', 'truck-l-', 'truck-m-', 'truck-s-', 'truck-xl-', 'dog', 'person', 'Alert', 'Drowsy', 'Low-Vigilance', 'Microsleep', '206 - peugeot', '207 - peugeot', '405 - peugeot', 'car', 'dena - IKCO', 'kia', 'lifan -x60', 'megan - Reno', 'neissan - zamyad', 'pars - peugeot', 'peykan - IKCO', 'pride - saipa', 'rana - IKCO', 'saina - saipa', 'samand - IKCO', 'tiba - saipa', 'tondar90 - Reno', 'zantia', 'AC', 'Adaptor', 'Braclets', 'Ceiling Light', 'Chair', 'Curtain', 'Fan', 'Hand', 'Laptop', 'Mobile Phone', 'Monitor', 'Mouse', 'Person', 'Power Supply', 'Spectacles', 'Watch', 'Window']
